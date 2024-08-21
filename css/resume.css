@@ -1,0 +1,33 @@
+@import "reset.css";
+#header {
+    width: 100%;
+    -webkit-box-shadow: 1px 0px 10px;
+    box-shadow: 1px 0px 10px;
+    height: 100px;
+    background-color: #FFFFFF;
+}
+#header h1 {
+    color: #109C00;
+    font-family: "微軟正黑體";
+    font-style: italic;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 100px;
+    text-align: center;
+    text-shadow: 10px 0px 10px #F0FF02;
+    padding-left: 100px;
+    top: auto;
+    float: left;
+}
+#nav {
+    float: right;
+    height: 100px;
+    width: 600px;
+}
+#nav ul li {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    display: inline-block;
+    line-height: 40px;
+}

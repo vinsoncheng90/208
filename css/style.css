@@ -1,0 +1,79 @@
+@charset "utf-8";
+nav {
+    height: 60px;
+    -webkit-box-shadow: 0px 5px 5px #C8C8C8;
+    box-shadow: 0px 5px 5px #C8C8C8;
+    background-image: url(../img/1082204-20060Q1335619.jpg);
+}
+nav ul li {
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: #00CBFF;
+    text-align: center;
+    line-height: 40px;
+    display: inline-block;
+    -webkit-transition: all 1s ease 0s;
+    -o-transition: all 1s ease 0s;
+    transition: all 1s ease 0s;
+}
+nav ul {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 0px;
+    text-align: right;
+
+}
+ul li a:link {
+    color: #FF8600;
+    font-family: "微軟正黑體", "標楷體", "新細明體", "細明體";
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+    text-shadow: 3px 3px 3px #00FFCB;
+    width: 100px;
+    height: 40px;
+    display: inline-block;
+}
+ul li a:visited {
+    color: #1A00FF;
+}
+ul li a:hover {
+    color: #FFFFFF;
+}
+
+
+
+
+
+
+	body {
+    margin: 0px;
+    background-image: url(../img/Screenshot-3.png);
+    background-repeat: repeat;
+	}
+nav ul li:hover {
+    background-color: rgba(255,195,144,1);
+}
+.container {
+    height: 1080px;
+    width: 1920px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 30px;
+}
+.block {
+    height: 700px;
+    background-image: url(../img/unnamed.png);
+    width: 1500px;
+    border-radius: 30px;
+    -webkit-box-shadow: 0px 0px 25px 10px #C3C3C3;
+    box-shadow: 0px 0px 25px 10px #C3C3C3;
+    margin-left: auto;
+    margin-right: auto;
+}
+.content  {
+    width: 1500px;
+    height: 700px;
+}

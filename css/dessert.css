@@ -1,0 +1,114 @@
+@charset "utf-8";
+#Web_1280 {
+    width: 1280px;
+    height: 2299px;
+    background-color: rgba(216,240,255,1.00);
+    overflow: hidden;
+    padding-right: auto;
+    padding-left: auto;
+    margin-right: auto;
+    margin-left: auto;
+	}
+	#section-footer {
+    width: 1280px;
+    left: 0px;
+    overflow: visible;
+    background-color: rgba(0,0,0,1.00);
+    height: 300px;
+    margin-top: 118px;
+	}
+	#section-CTA {
+    overflow: visible;
+    margin-top: 0px;
+    background-repeat: no-repeat;
+    width: 1280px;
+    text-align: center;
+	}
+	#btn-taste-now {
+    width: 1280px;
+    overflow: visible;
+    text-align: center;
+    position: relative;
+	}
+	
+	#section-quote {
+    width: 1280px;
+    height: 300.002px;
+    left: 0px;
+    top: 1319px;
+    overflow: visible;
+	}
+#header {
+    width: 1280px;
+    height: 359px;
+    overflow: visible;
+    text-align: center;
+    margin-top: 20px;
+	}
+	#card {
+    width: 1280px;
+    height: 359px;
+    left: 0px;
+    top: 0px;
+    overflow: hidden;
+	}
+	#card_0 {
+    width: 300px;
+    height: 300px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    float: left;
+	}
+	#card_1 {
+    width: 300px;
+    height: 300px;
+    left: 320px;
+    top: 0px;
+    overflow: visible;
+    float: left;
+	}
+	#card_2 {
+    width: 300px;
+    height: 300px;
+    left: 640px;
+    top: 0px;
+    overflow: visible;
+    float: left;
+	}
+	#section-header {
+    height: 824px;
+    overflow: visible;
+    opacity: 1;
+    position: relative;
+	}
+	#bg-heder {
+    width: 1280px;
+    height: 824px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    background-image: url(IMG/bg-heder.png);
+	}
+	#section-navbar {
+    height: 64px;
+    overflow: visible;
+    background-color: rgba(40,79,101,0.63);
+    position: relative;
+    z-index: 1;
+    opacity: 1;
+    margin-bottom: -65px;
+	}
+#buttom {
+    width: 1280px;
+    background-image: url(url);
+    margin-top: -90px;
+}
+#bg-cta {
+    background-image: url(../IMG/bg-cta.png);
+    width: 940px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}
